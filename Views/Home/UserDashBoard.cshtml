@@ -1,0 +1,116 @@
+﻿
+@{
+    ViewBag.Title = "UserDashBoard";
+}
+
+<div class="row mt-4">
+    <div class="col-md-2 text-center">
+        <input type="hidden" id="userId" value="@Session["UID"]" />
+        <div class="profile-image">
+            <i class="fa-solid fa-user fa-5x"></i>
+        </div>
+    </div>
+    <div class="col-10">
+        <div class="profile-info">
+            <div class="">
+                <div>
+                    <h2 class="no-margins">
+                        @Session["Name"]
+                    </h2>
+                    <small>
+
+                    </small>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="row mt-4">
+    <div class="col-xl-4 col-md-6">
+        <div class="card bg-primary text-white mb-4">
+            <div class="card-body p-4">
+                <div class="row align-items-center">
+                    <div class="col-4 text-center">
+                        <i class="fa-solid fa-user fa-3x"></i>
+                    </div>
+                    <div class="col-8">
+                        Total Watched
+                        <span class="d-block" style="font-size:26px" id="twatch"></span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="col-xl-4 col-md-6">
+        <div class="card bg-danger text-white mb-4">
+            <div class="card-body p-4">
+                <div class="row align-items-center">
+                    <div class="col-4 text-center">
+                        <i class="fa-solid fa-photo-film fa-3x"></i>
+                    </div>
+                    <div class="col-8">
+                        Total Videos
+                        <span class="d-block" style="font-size:26px" id="tvid"></span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="col-xl-4 col-md-6">
+        <div class="card bg-success text-white mb-4">
+            <div class="card-body p-4">
+                <div class="row align-items-center">
+                    <div class="col-4 text-center">
+                        <i class="fa-solid fa-sack-dollar fa-3x"></i>
+                    </div>
+                    <div class="col-8">
+                        Most Earned
+                        <span class="d-block" style="font-size:26px" id="mearn"></span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<script>
+    $(document).ready(function () {
+        var userid = $("#userId").val();
+        $.ajax({
+            url: '../Video/TotalWatched?id=' + userid,
+            type: 'GET',
+            success: function (data) {
+                $('#twatch').text(data);
+
+            },
+            error: function (error) {
+                console.error("Error occurred: ", error);
+            }
+        });
+        $.ajax({
+            url: '../Video/TotalVideos',
+            type: 'GET',
+            success: function (data) {
+                $('#tvid').text(data);
+
+            },
+            error: function (error) {
+                console.error("Error occurred: ", error);
+            }
+        });
+        $.ajax({
+            url: '../Video/MostEarned?id=' + userid,
+            type: 'GET',
+            success: function (data) {
+                $('#mearn').text(data);
+
+            },
+            error: function (error) {
+                console.error("Error occurred: ", error);
+            }
+        });
+    });
+</script>

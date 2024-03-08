@@ -1,0 +1,486 @@
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\obj\Debug\LoyaltyReward.csproj.AssemblyReference.cache
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\obj\Debug\LoyaltyReward.csproj.CoreCompileInputs.cache
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\LoyaltyReward.dll.config
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\LoyaltyReward.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\LoyaltyReward.pdb
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\csc.exe
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\csc.exe.config
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\csc.rsp
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\csi.exe
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\csi.exe.config
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\csi.rsp
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.AppContext.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Console.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.IO.Compression.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Net.Http.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.ValueTuple.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\vbc.exe
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\vbc.exe.config
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\vbc.rsp
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\VBCSCompiler.exe
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\Antlr3.Runtime.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\Dapper.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\Newtonsoft.Json.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\System.Web.Helpers.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\System.Web.Mvc.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\System.Web.Optimization.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\System.Web.Razor.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\System.Web.WebPages.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\System.Web.WebPages.Razor.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\WebGrease.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\Dapper.xml
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\System.Web.Helpers.xml
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\System.Web.Mvc.xml
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\System.Web.Optimization.xml
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\System.Web.Razor.xml
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\System.Web.WebPages.xml
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\System.Web.WebPages.Razor.xml
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\Newtonsoft.Json.xml
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\Antlr3.Runtime.pdb
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\obj\Debug\LoyaltyReward.csproj.CopyComplete
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\obj\Debug\LoyaltyReward.dll
+C:\Users\Invia-ILC\Desktop\New folder\LoyaltyReward\obj\Debug\LoyaltyReward.pdb
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\LoyaltyReward.dll.config
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\LoyaltyReward.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\LoyaltyReward.pdb
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\csc.exe
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\csc.exe.config
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\csc.rsp
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\csi.exe
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\csi.exe.config
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\csi.rsp
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.AppContext.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Console.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Globalization.Calendars.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.IO.Compression.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Net.Http.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Net.Sockets.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.ValueTuple.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Xml.XPath.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\vbc.exe
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\vbc.exe.config
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\vbc.rsp
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\VBCSCompiler.exe
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\Antlr3.Runtime.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\Dapper.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\Newtonsoft.Json.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\System.Web.Helpers.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\System.Web.Mvc.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\System.Web.Optimization.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\System.Web.Razor.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\System.Web.WebPages.Deployment.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\System.Web.WebPages.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\System.Web.WebPages.Razor.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\WebGrease.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\Dapper.xml
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\System.Web.Helpers.xml
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\System.Web.Mvc.xml
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\System.Web.Optimization.xml
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\System.Web.Razor.xml
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\System.Web.WebPages.xml
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\System.Web.WebPages.Deployment.xml
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\System.Web.WebPages.Razor.xml
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\Newtonsoft.Json.xml
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\Antlr3.Runtime.pdb
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\obj\Debug\LoyaltyReward.csproj.AssemblyReference.cache
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\obj\Debug\LoyaltyReward.csproj.CoreCompileInputs.cache
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\obj\Debug\LoyaltyReward.csproj.CopyComplete
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\obj\Debug\LoyaltyReward.dll
+D:\Project\LoyaltyRewardV1.1\LoyaltyReward\obj\Debug\LoyaltyReward.pdb
+D:\final project\LoyaltyReward\bin\LoyaltyReward.dll.config
+D:\final project\LoyaltyReward\bin\LoyaltyReward.dll
+D:\final project\LoyaltyReward\bin\LoyaltyReward.pdb
+D:\final project\LoyaltyReward\bin\roslyn\csc.exe
+D:\final project\LoyaltyReward\bin\roslyn\csc.exe.config
+D:\final project\LoyaltyReward\bin\roslyn\csc.rsp
+D:\final project\LoyaltyReward\bin\roslyn\csi.exe
+D:\final project\LoyaltyReward\bin\roslyn\csi.exe.config
+D:\final project\LoyaltyReward\bin\roslyn\csi.rsp
+D:\final project\LoyaltyReward\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\final project\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\final project\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\final project\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\final project\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\final project\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\final project\LoyaltyReward\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\final project\LoyaltyReward\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\final project\LoyaltyReward\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\final project\LoyaltyReward\bin\roslyn\Microsoft.Managed.Core.targets
+D:\final project\LoyaltyReward\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\final project\LoyaltyReward\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.AppContext.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Collections.Immutable.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Console.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Globalization.Calendars.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.IO.Compression.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.IO.FileSystem.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Net.Http.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Net.Sockets.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Reflection.Metadata.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.ValueTuple.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Xml.XmlDocument.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Xml.XPath.dll
+D:\final project\LoyaltyReward\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\final project\LoyaltyReward\bin\roslyn\vbc.exe
+D:\final project\LoyaltyReward\bin\roslyn\vbc.exe.config
+D:\final project\LoyaltyReward\bin\roslyn\vbc.rsp
+D:\final project\LoyaltyReward\bin\roslyn\VBCSCompiler.exe
+D:\final project\LoyaltyReward\bin\roslyn\VBCSCompiler.exe.config
+D:\final project\LoyaltyReward\bin\Antlr3.Runtime.dll
+D:\final project\LoyaltyReward\bin\Dapper.dll
+D:\final project\LoyaltyReward\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\final project\LoyaltyReward\bin\Microsoft.Web.Infrastructure.dll
+D:\final project\LoyaltyReward\bin\Newtonsoft.Json.dll
+D:\final project\LoyaltyReward\bin\System.Web.Helpers.dll
+D:\final project\LoyaltyReward\bin\System.Web.Mvc.dll
+D:\final project\LoyaltyReward\bin\System.Web.Optimization.dll
+D:\final project\LoyaltyReward\bin\System.Web.Razor.dll
+D:\final project\LoyaltyReward\bin\System.Web.WebPages.Deployment.dll
+D:\final project\LoyaltyReward\bin\System.Web.WebPages.dll
+D:\final project\LoyaltyReward\bin\System.Web.WebPages.Razor.dll
+D:\final project\LoyaltyReward\bin\WebGrease.dll
+D:\final project\LoyaltyReward\bin\Dapper.xml
+D:\final project\LoyaltyReward\bin\System.Web.Helpers.xml
+D:\final project\LoyaltyReward\bin\System.Web.Mvc.xml
+D:\final project\LoyaltyReward\bin\System.Web.Optimization.xml
+D:\final project\LoyaltyReward\bin\System.Web.Razor.xml
+D:\final project\LoyaltyReward\bin\System.Web.WebPages.xml
+D:\final project\LoyaltyReward\bin\System.Web.WebPages.Deployment.xml
+D:\final project\LoyaltyReward\bin\System.Web.WebPages.Razor.xml
+D:\final project\LoyaltyReward\bin\Newtonsoft.Json.xml
+D:\final project\LoyaltyReward\bin\Antlr3.Runtime.pdb
+D:\final project\LoyaltyReward\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\final project\LoyaltyReward\obj\Debug\LoyaltyReward.csproj.AssemblyReference.cache
+D:\final project\LoyaltyReward\obj\Debug\LoyaltyReward.csproj.CoreCompileInputs.cache
+D:\final project\LoyaltyReward\obj\Debug\LoyaltyReward.csproj.CopyComplete
+D:\final project\LoyaltyReward\obj\Debug\LoyaltyReward.dll
+D:\final project\LoyaltyReward\obj\Debug\LoyaltyReward.pdb
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\LoyaltyReward.dll.config
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\LoyaltyReward.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\LoyaltyReward.pdb
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\csc.exe
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\csc.exe.config
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\csc.rsp
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\csi.exe
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\csi.exe.config
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\csi.rsp
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.AppContext.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Console.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.IO.Compression.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Net.Http.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.ValueTuple.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\vbc.exe
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\vbc.exe.config
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\vbc.rsp
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\VBCSCompiler.exe
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\Antlr3.Runtime.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\Dapper.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\Newtonsoft.Json.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Helpers.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Mvc.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Optimization.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Razor.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.WebPages.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.WebPages.Razor.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\WebGrease.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\Dapper.xml
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Helpers.xml
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Mvc.xml
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Optimization.xml
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Razor.xml
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.WebPages.xml
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.WebPages.Razor.xml
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\Newtonsoft.Json.xml
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\Antlr3.Runtime.pdb
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\obj\Debug\LoyaltyReward.csproj.AssemblyReference.cache
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\obj\Debug\LoyaltyReward.csproj.CoreCompileInputs.cache
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\obj\Debug\LoyaltyReward.csproj.CopyComplete
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\obj\Debug\LoyaltyReward.dll
+C:\Users\tarun\Downloads\LoyaltyReward\LoyaltyReward\obj\Debug\LoyaltyReward.pdb
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\LoyaltyReward.dll.config
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\LoyaltyReward.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\LoyaltyReward.pdb
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\csc.exe
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\csc.exe.config
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\csc.rsp
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\csi.exe
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\csi.exe.config
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\csi.rsp
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.AppContext.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Console.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Net.Http.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\vbc.exe
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\vbc.exe.config
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\vbc.rsp
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\Antlr3.Runtime.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\Dapper.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\Newtonsoft.Json.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Helpers.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Mvc.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Optimization.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Razor.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.WebPages.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\WebGrease.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\Dapper.xml
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Helpers.xml
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Mvc.xml
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Optimization.xml
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Razor.xml
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.WebPages.xml
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\Newtonsoft.Json.xml
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\Antlr3.Runtime.pdb
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\obj\Debug\LoyaltyReward.csproj.AssemblyReference.cache
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\obj\Debug\LoyaltyReward.csproj.CoreCompileInputs.cache
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\obj\Debug\LoyaltyReward.csproj.CopyComplete
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\obj\Debug\LoyaltyReward.dll
+C:\Users\Tarun Pal\Downloads\LoyaltyReward\LoyaltyReward\obj\Debug\LoyaltyReward.pdb
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\LoyaltyReward.dll.config
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\LoyaltyReward.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\LoyaltyReward.pdb
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\csc.exe
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\csc.exe.config
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\csc.rsp
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\csi.exe
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\csi.exe.config
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\csi.rsp
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.AppContext.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Console.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Globalization.Calendars.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.IO.Compression.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Net.Http.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Net.Sockets.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.ValueTuple.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Xml.XPath.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\vbc.exe
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\vbc.exe.config
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\vbc.rsp
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\Antlr3.Runtime.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\Dapper.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\Newtonsoft.Json.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Helpers.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Mvc.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Optimization.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Razor.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.WebPages.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\WebGrease.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\Dapper.xml
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Helpers.xml
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Mvc.xml
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Optimization.xml
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.Razor.xml
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.WebPages.xml
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\Newtonsoft.Json.xml
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\Antlr3.Runtime.pdb
+D:\Downloads\LoyaltyReward\LoyaltyReward\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\LoyaltyReward\LoyaltyReward\obj\Debug\LoyaltyReward.csproj.AssemblyReference.cache
+D:\Downloads\LoyaltyReward\LoyaltyReward\obj\Debug\LoyaltyReward.csproj.CoreCompileInputs.cache
+D:\Downloads\LoyaltyReward\LoyaltyReward\obj\Debug\LoyaltyReward.csproj.CopyComplete
+D:\Downloads\LoyaltyReward\LoyaltyReward\obj\Debug\LoyaltyReward.dll
+D:\Downloads\LoyaltyReward\LoyaltyReward\obj\Debug\LoyaltyReward.pdb

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<LoyaltyReward.Models.Video>
+@{
+    ViewBag.Title = "Index";
+}
+
+<input type="hidden" id="userId" value="@Session["UID"]" />
+<a class="btn btn-primary float-end mb-3" href="@Url.Action("AddVideo", "Admin")"><i class="fa-solid fa-plus"></i> Add Video</a>
+
+<div class="clearfix"></div>
+<div class="row gx-3 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+    @foreach (var i in Model)
+    {
+        <div class=" video-container col-3 mb-5">
+            <div class="card h-100">
+                <video class="video" style="width:100%" controlsList="nodownload" id="@i.VideoID" disablePictureInPicture disableRemotePlayback>
+                    <source src="~/Video/@i.VideoPath" type="video/mp4">
+                </video>
+                <div class="card-body p-2">
+                    <div class="text-center">
+                        <h5 class="fw-bolder">@i.VideoName</h5>
+
+                        Amount:@i.Amount
+                    </div>
+                </div>
+                <div class="card-footer p-2 pt-0 border-top-0 bg-transparent">
+                    <div class="controls text-center">
+                        <input type="hidden" id="vidId" value="i.VideoID" />
+                        @if (i.UserID == 0)
+                        {
+                            <div class="btn-group">
+                                <button class="btn btn-outline-danger" id="removebtn">@Html.ActionLink("Remove", "RemoveVideo", "Admin", new {videoID=i.VideoID}, null)</button>
+                            </div>
+                        }
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    }
+</div>
+

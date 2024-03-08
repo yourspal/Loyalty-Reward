@@ -1,0 +1,138 @@
+﻿@model IEnumerable<LoyaltyReward.Models.Video>
+
+@{
+    ViewBag.Title = "DashBoard";
+
+}
+
+
+<input type="hidden" id="userId" value="@Session["UID"]" />
+<div class="col-12 d-flex justify-content-end">
+    @*<p> <span id="balance"></span> <i class="fa-solid fa-coins mx-2" style="font-size:1.5rem;color:gold"></i></p>*@
+</div>
+<div class="row videos-container">
+
+    @foreach (var i in Model)
+    {
+        if (i.VideoID >= 0)
+        {
+            <div class=" video-container col-3">
+                <div class="card h-100">
+                    <video class="video" style="width:100%" controlsList="nodownload" id="@i.VideoID" disablePictureInPicture disableRemotePlayback>
+                        <source src="~/Video/@i.VideoPath" type="video/mp4">
+                    </video>
+                    @if (i.UserID == 0)
+                    {
+                        <div class="controls text-center pb-3">
+                            <div class="card-body p-2 mb-3">
+                                <div class="text-center">
+                                    <h5 class="fw-bolder">@i.VideoName</h5>
+                                    Amount:@i.Amount
+                                </div>
+                            </div>
+
+                            <button class="play btn-sm btn btn-primary" type="button"><i class="fa-solid fa-play"></i> Play</button>
+                            <button class="pause btn-sm btn btn-secondary" type="button"><i class="fa-solid fa-pause"></i>  Pause</button>
+                            <button class="fullscreen btn-sm btn btn-dark" type="button"><i class="fa-solid fa-expand"></i>  Fullscreen</button>
+
+
+                        </div>
+                    }
+
+                    else
+                    {
+                        <p class="text-danger fw-bold mt-5 mx-4">Video already watched</p>
+                    }
+
+                </div>
+            </div>
+        }
+
+    }        
+
+</div>
+
+
+
+<script type="text/javascript">
+        $(document).ready(function () {
+            const videos = document.querySelectorAll('.video');
+            var userid = $("#userId").val();
+            getBalance();
+            function getBalance() {
+                var status = false;
+                $.ajax({
+                    url: '../User/ShowBalance?userid=' + parseInt(userid),
+                    type: 'GET',
+                    success: function (data) {
+                        $('#balance').text(data);    // we'll use val instead of text if we use input type instead of div or paragraph tag
+                        // # represent Id and .(dot) is used for class
+                        status = true;
+                    },
+                    error: function (error) {
+                        console.error("Error occurred: ", error);
+                    }
+                });
+                    return status;
+           }
+
+
+            videos.forEach(video => {
+                video.addEventListener('ended', function() {
+                    this.currentTime = 0;
+                    $(this).attr("watched", "true");
+                    $(this).next('.controls').html("<p>Video already watched</p>");
+                    var userid = $("#userId").val();
+                    var videoid = $(this).attr('id');
+                    $.ajax({
+                        url: '../User/AddBalance?userid=' + parseInt(userid) + '&videoid=' + videoid,
+                        type: 'GET',
+                        success: function (data) {
+                            console.log("success");
+                            var result = getBalance();
+                            if (result) {
+                                location.reload();
+                            }
+                        },
+                        error: function (error) {
+                            console.error("Error occurred: ", error);
+                        }
+
+                    });
+                    this.controls = false; // Disables controls after the video is watched
+                });
+
+                video.addEventListener('seeking', function() {
+                    this.currentTime = 0;
+
+
+                });
+
+                video.addEventListener('play', function() {
+                    videos.forEach(vid => {
+                        if (vid !== video && !vid.paused) {
+                            vid.pause();
+                        }
+                    });
+                });
+            });
+
+            $(".fullscreen").click(function() {
+                const video = $(this).parent().prev('.video')[0];
+                if (video.requestFullscreen) {
+                    video.requestFullscreen();
+                }
+            });
+
+            $(".play").click(function() {
+                const video = $(this).parent().prev('.video')[0];
+                video.play();
+            });
+
+            $(".pause").click(function() {
+                const video = $(this).parent().prev('.video')[0];
+                video.pause();
+            });
+        });
+</script>
+

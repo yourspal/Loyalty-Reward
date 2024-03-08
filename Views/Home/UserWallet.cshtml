@@ -1,0 +1,129 @@
+﻿@model LoyaltyReward.Models.BankDetails
+@{
+    ViewBag.Title = "UserWallet";
+}
+
+<div class="row justify-content-center">
+    <div class="col-lg-8">
+        <div class="widget bg-light p-4" style="border-radius:20px;">
+            <div class="p-m text-center">
+
+                <input type="hidden" id="userId" value="@Session["UID"]" />
+                <h3 class="font-bold no-margins">
+                    Total Rewards
+                </h3>
+                <h1 class="m-xs"><span id="amt"></span></h1>
+                <small>This reward is in your Wallet</small>
+
+                <h4 class="mt-5 text-center">Reddem your rewards</h4>
+                <div class="row justify-content-center">
+                    <div class="col-6 text-start">
+                        @using (Html.BeginForm("UserWallet", "Home", FormMethod.Post))
+                        {
+
+                            <div class="form-group">
+                                <label>Enter Amount to be Redeemed: <span class="text-danger">*</span></label>
+                                <div class="col-md-12 mb-2">
+                                    @Html.TextBoxFor(model => model.Amount, new { @class = "form-control", required = "required" })
+                                    @Html.ValidationMessageFor(model => model.Amount, "", new { @class = "text-danger" })
+                                    <span class="error"></span>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label>Account Number:<span class="text-danger">*</span></label>
+                                <div class="col-md-12 mb-2">
+                                    @Html.TextBoxFor(model => model.AccountNumber, new { @class = "form-control", required = "required" })
+                                    @Html.ValidationMessageFor(model => model.AccountNumber, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label>Bank Name:<span class="text-danger">*</span></label>
+                                <div class="col-md-12 mb-2">
+                                    @Html.TextBoxFor(model => model.BankName, new { @class = "form-control", required = "required" })
+                                    @Html.ValidationMessageFor(model => model.BankName, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label>Account Holder Name:<span class="text-danger">*</span></label>
+                                <div class="col-md-12 mb-2">
+                                    @Html.TextBoxFor(model => model.AccountHolderName, new { @class = "form-control", required = "required" })
+                                    @Html.ValidationMessageFor(model => model.AccountHolderName, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label>IFSC:<span class="text-danger">*</span></label>
+                                <div class="col-md-12 mb-2">
+                                    @Html.TextBoxFor(model => model.IFSC, new { @class = "form-control", required = "required" })
+                                    @Html.ValidationMessageFor(model => model.IFSC, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <button class="btn btn-primary mt-3">Proceed to checkout</button>
+                        }
+
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+@*<script>
+        var userid = $("#userId").val();
+        $.ajax({
+            url: '../User/ShowBalance?userid=' + parseInt(userid),
+            type: 'GET',
+            success: function (data) {
+                $('#amt').text(data);
+
+            },
+            error: function (error) {
+                console.error("Error occurred: ", error);
+            }
+        });
+
+    </script>*@
+
+<script>
+    $(document).ready(function () {
+        var userid = $("#userId").val();
+
+        $.ajax({
+            url: '../User/ShowBalance?userid=' + parseInt(userid),
+            type: 'GET',
+            success: function (data) {
+                $('#amt').text(data);
+            },
+            error: function (error) {
+                console.error("Error occurred: ", error);
+            }
+        });
+
+        // Function to compare amount and show alert
+        function compareAmount() {
+            var enteredAmount = parseFloat($("#Amount").val());
+             var ajaxData = parseFloat($('#amt').text());
+
+            if (enteredAmount <= ajaxData) {
+                // Valid amount, submit the form
+                $("form").unbind('submit').submit();
+            } else {
+                alert("Entered amount is greater than available balance!");
+                // Handle the case where the amount is not valid
+            }
+        }
+
+        // Attach the function to the click event of the submit button
+        $("form").submit(function (event) {
+            // Prevent the form from submitting immediately
+            event.preventDefault();
+
+            // Call the function to compare amount and show alert
+            compareAmount();
+        });
+    });
+</script>
+

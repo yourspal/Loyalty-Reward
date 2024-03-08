@@ -1,0 +1,247 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<script>
+    $(document).ready(function () {
+        $.ajax({
+            url: '../Video/TotalUser',
+            type: 'GET',
+            success: function (data) {
+                $('#tuser').text(data);
+
+            },
+            error: function (error) {
+                console.error("Error occurred: ", error);
+            }
+        });
+        $.ajax({
+            url: '../Video/TotalVideos',
+            type: 'GET',
+            success: function (data) {
+                $('#tvid').text(data);
+
+            },
+            error: function (error) {
+                console.error("Error occurred: ", error);
+            }
+        });
+        $.ajax({
+            url: '../Video/TotalEarned',
+            type: 'GET',
+            success: function (data) {
+                $('#tearn').text(data);
+
+            },
+            error: function (error) {
+                console.error("Error occurred: ", error);
+            }
+        });
+    })
+</script>
+
+<div class="row">
+    <div class="col-xl-3 col-md-6">
+        <div class="card bg-primary text-white mb-4">
+            <div class="card-body p-4">
+                <div class="row align-items-center">
+                    <div class="col-4 text-center">
+                        <i class="fa-solid fa-user fa-3x"></i>
+                    </div>
+                    <div class="col-8">
+                        Total Users
+                        <span class="d-block" style="font-size:26px" id="tuser"></span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="col-xl-3 col-md-6">
+        <div class="card bg-danger text-white mb-4">
+            <div class="card-body p-4">
+                <div class="row align-items-center">
+                    <div class="col-4 text-center">
+                        <i class="fa-solid fa-photo-film fa-3x"></i>
+                    </div>
+                    <div class="col-8">
+                        Total Videos
+                        <span class="d-block" style="font-size:26px" id="tvid"></span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="col-xl-3 col-md-6">
+        <div class="card bg-success text-white mb-4">
+            <div class="card-body p-4">
+                <div class="row align-items-center">
+                    <div class="col-4 text-center">
+                        <i class="fa-solid fa-sack-dollar fa-3x"></i>
+                    </div>
+                    <div class="col-8">
+                        Total Earned
+                        <span class="d-block" style="font-size:26px" id="tearn"></span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    @*<div class="col-xl-3 col-md-6">
+        <div class="card bg-warning text-white mb-4">
+            <div class="card-body p-4">
+                <div class="row align-items-center">
+                    <div class="col-4 text-center">
+                        <i class="fa-solid fa-user fa-3x"></i>
+                    </div>
+                    <div class="col-8">
+                        Total Users
+                        <span class="d-block" style="font-size:26px">459</span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>*@
+</div>
+
+<div class="row">
+    <div class="col-8">
+        <canvas id="rewardBarChart" class="w-100"></canvas>
+    </div>
+    <div class="col-4">
+
+        <canvas id="rewardPieChart" class="w-100"></canvas>
+
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-6">
+        <h3>Latest Videos</h3>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>
+                        Title
+                    </th>
+                    <th width="120">
+                        Date
+                    </th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Enahance </td>
+                    <td>10 Nov, 2023</td>
+
+                </tr>
+                <tr>
+                    <td>Gym</td>
+                    <td>9 Nov, 2023</td>
+
+                </tr>
+                <tr>
+                    <td>Jurassic</td>
+                    <td>9 Nov, 2023</td>
+
+                </tr>
+                <tr>
+                    <td>Bollywood</td>
+                    <td>8 Nov, 2023</td>
+
+                </tr>
+                <tr>
+                    <td>Jump</td>
+                    <td>8 Nov, 2023</td>
+
+                </tr>
+
+            </tbody>
+        </table>
+
+    </div>
+    <div class="col-6">
+        <h3>Top Users</h3>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>
+                        Title
+                    </th>
+                    <th width="140">
+                        Reward Earned
+                    </th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Vikrant</td>
+                    <td>340</td>
+
+                </tr>
+                <tr>
+                    <td>Akash</td>
+                    <td>120</td>
+
+                </tr>
+                
+                <tr>
+                    <td>Aviral</td>
+                    <td>100</td>
+
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+
+</div>
+<script>
+var xValues = ["Enhance", "Gym", "Jurassic", "Jump", "Bollywood"];
+var yValues = [55, 49, 44, 24, 15];
+var barColors = ["red", "green","blue","orange","brown"];
+
+new Chart("rewardBarChart", {
+  type: "bar",
+  data: {
+    labels: xValues,
+    datasets: [{       label: "Most Watched",
+      backgroundColor: barColors,
+      data: yValues
+    }]
+  },
+  options: {
+    legend: {display: false},
+    title: {
+      display: true,
+    }
+  }
+});
+
+// pie chart confg.
+var xValues = ["Vikrant", "Akash", "Dipanshu", "Rishabh", "Parul"];
+var yValues = [55, 49, 44, 24, 15];
+var barColors = ["red", "green","blue","orange","brown"];
+
+new Chart("rewardPieChart", {
+  type: "doughnut",
+  data: {
+    labels: xValues,
+    datasets: [{       label: "World Wine Production 2018",
+      backgroundColor: barColors,
+      data: yValues
+    }]
+  },
+  options: {
+    legend: {display: false},
+    title: {
+      display: true,
+    }
+  }
+});
+
+
+</script>
